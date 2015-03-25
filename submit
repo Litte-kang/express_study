@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git add . -A
+git commit -m "express study"
+git remote add origin git@github.com:Litte-kang/express_study.git
+git push -u origin master
